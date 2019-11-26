@@ -7,7 +7,7 @@ BALL BALANCING BRAIN GAMES
    <img src="https://momentum.cekloka.com/artc0de_x_momentum.png"  width=500>    
 </p>
 
-<img src="https://cdn.sparkfun.com//assets/parts/1/3/5/6/7/15170-SparkFun_Edge_Development_Board_-_Apollo3_Blue-01a.jpg"  align="right" width=300> 
+<img src="https://raw.githubusercontent.com/nurfauziskandar/ball_balancing_game/master/image.jpeg"  align="right" width=300> 
 
 ## Bahasa Indonesia
 Repositori ini berisi source code final dari project mainan brain games universitas trisakti, yang dimana alat yang saya buat menunjukan level ketika bola sudah mencapai titik titik tertentu.
