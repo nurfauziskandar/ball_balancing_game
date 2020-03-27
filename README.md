@@ -1,10 +1,10 @@
-# ball_balancing_game
+# Ball balancing game
 
 BALL BALANCING BRAIN GAMES
 ==========================
 
 <p align="center" valign="middle">
-   <img src="https://momentum.cekloka.com/artc0de_x_momentum.png"  width=500>    
+   <img src="https://i.ibb.co/CQ1nd10/artc0de-x-momentum.png"  width=500>    
 </p>
 
 <img src="https://raw.githubusercontent.com/nurfauziskandar/ball_balancing_game/master/image.jpeg"  align="right" width=300> 
